@@ -78,13 +78,7 @@ streamlit run app.py
 ## 📸 Screenshots
 
 
-## 🔮 Future Improvements
 
-* User Authentication
-* Genre-Based Filtering
-* Top Rated & Trending Movies
-* Hybrid Recommendation System
-* Deployment on Streamlit Cloud
 
 ## 👨‍💻 Author
 
