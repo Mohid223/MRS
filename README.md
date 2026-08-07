@@ -81,10 +81,7 @@ streamlit run app.py
   <img src="screenshots/home.png" alt="Movie Recommendation System" width="900">
 </p>
 
-### Home Page
-
-![Home Page](screenshots/home.png)
-
+ 
 
 ## 👨‍💻 Author
 
