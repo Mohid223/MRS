@@ -77,7 +77,13 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
+<p align="center">
+  <img src="screenshots/home.png" alt="Movie Recommendation System" width="900">
+</p>
 
+### Home Page
+
+![Home Page](screenshots/home.png)
 
 
 ## 👨‍💻 Author
@@ -88,4 +94,4 @@ GitHub: https://github.com/Mohid223
 
 ---
 
-⭐ If you like this project, don't forget to star the repository!
+ 
