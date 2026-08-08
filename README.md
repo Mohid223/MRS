@@ -2,6 +2,12 @@
 
 A content-based Movie Recommendation System built using **Python**, **Streamlit**, **Machine Learning**, **NLP**, and the **TMDB API**. The application recommends movies similar to the one selected by the user and displays their posters with ratings.
 
+## 🌐 Live Demo
+
+**🔗 https://mrs.mohid.online**
+
+> Try the application online without any installation.
+> 
 ## 🚀 Features
 
 * 🎥 Recommend similar movies instantly
